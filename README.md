@@ -1,2 +1,2 @@
-# Vendy
-My MERN stack ecommerce store 
+# Vendy Admin
+The Admin interface for my ecommerce store 
